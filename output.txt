@@ -1,0 +1,4 @@
+kubernetes_cluster_host = "35.238.178.69"
+kubernetes_cluster_name = "learn-gke"
+project_id = "189189082755"
+region = "us-central1"
